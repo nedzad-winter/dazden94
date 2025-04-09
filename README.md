@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:badges-->
+[![Foundations: Kubernetes Networking & Cilium](https://images.credly.com/size/110x110/images/4e69b6ba-42c7-4e25-8888-0597dda1529e/blob)](http://www.credly.com/badges/4ca24a0f-5d8c-4182-a5d9-0c26ecc889ff "Foundations: Kubernetes Networking & Cilium")
 [![AWS Educate Getting Started with Compute](https://images.credly.com/size/110x110/images/9358115e-ead7-47c2-91e2-165b6a650a1b/image.png)](http://www.credly.com/badges/cae6bcab-0b7f-4689-93cd-452fb5e09fe5 "AWS Educate Getting Started with Compute")
 [![KCNA: Kubernetes and Cloud Native Associate](https://images.credly.com/size/110x110/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png)](http://www.credly.com/badges/f249d3f6-544e-4115-9284-1a3d87c89b2a "KCNA: Kubernetes and Cloud Native Associate")
 [![LFS250: Kubernetes and Cloud Native Essentials](https://images.credly.com/size/110x110/images/7404ca0d-98e1-48b6-a2a3-de8d7dcd85b5/blob)](http://www.credly.com/badges/598b687e-bfe6-4a9a-bd92-93b273fa65c9 "LFS250: Kubernetes and Cloud Native Essentials")
