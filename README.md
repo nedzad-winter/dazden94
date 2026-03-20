@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/26ffc20c-de7d-480f-84d4-77952c187a44" title="Cilium Cluster Mesh"><img src="https://images.credly.com/size/80x80/images/00f31c5d-eb40-458f-aa11-22e9ff35deb7/tempfile20250605-95-6sagl8.png" alt="Cilium Cluster Mesh" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/4ca24a0f-5d8c-4182-a5d9-0c26ecc889ff" title="Foundations: Kubernetes Networking & Cilium"><img src="https://images.credly.com/size/80x80/images/d0e84df5-83ab-438b-b51f-c464c78faa52/tempfile20250605-58-6rrhp1.png" alt="Foundations: Kubernetes Networking & Cilium" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/cae6bcab-0b7f-4689-93cd-452fb5e09fe5" title="AWS Educate Getting Started with Compute - Training Badge"><img src="https://images.credly.com/size/80x80/images/7b08cc0e-064b-407d-b70e-323509c3e474/blob" alt="AWS Educate Getting Started with Compute - Training Badge" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/f249d3f6-544e-4115-9284-1a3d87c89b2a" title="KCNA: Kubernetes and Cloud Native Associate"><img src="https://images.credly.com/size/80x80/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" alt="KCNA: Kubernetes and Cloud Native Associate" width="80" height="80"></a>
