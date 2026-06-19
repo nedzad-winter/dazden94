@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:badges-->
+[![AI Skills Fest 2026](https://images.credly.com/size/80x80/images/082c8d0c-5232-4597-b6c4-6bebcc4f3046/blob)](https://www.credly.com/badges/0f0bb81c-16c7-4386-ada3-f5155c6016d8)
 [![Cilium Gateway API](https://images.credly.com/size/80x80/images/c8229ec6-54c3-420f-8453-12a0e0596c8c/tempfile20250605-57-c5zt7d.png)](https://www.credly.com/badges/291dc613-427f-4eaa-a131-e13973097609)
 [![Cilium Cluster Mesh](https://images.credly.com/size/80x80/images/00f31c5d-eb40-458f-aa11-22e9ff35deb7/tempfile20250605-95-6sagl8.png)](https://www.credly.com/badges/26ffc20c-de7d-480f-84d4-77952c187a44)
 [![Foundations: Kubernetes Networking & Cilium](https://images.credly.com/size/80x80/images/d0e84df5-83ab-438b-b51f-c464c78faa52/tempfile20250605-58-6rrhp1.png)](https://www.credly.com/badges/4ca24a0f-5d8c-4182-a5d9-0c26ecc889ff)
